@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shivam Kumar
+- 👋 Hi, I’m @Bruce
 - 👀 I’m interested in Python;C++;Java;Html;Css;Javascript
 - 🌱 I’m currently learning Python;Html;Css
 
